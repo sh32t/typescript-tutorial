@@ -1,0 +1,16 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "```ps1\r npm init -y\r ```\r ## typescriptのインストール",
+  "main": "index.js",
+  "scripts": {
+    "ts-node": "ts-node sample.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
