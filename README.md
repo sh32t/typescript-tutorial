@@ -36,12 +36,12 @@ npm install ts-node
 #### `package.json`の`"script"`を下記のように書き換える。
 ```json
   "scripts": {
-    "ts-node": "ts-node sample.ts"
+    "start": "ts-node sample.ts"
   },
 ```
 #### ※VScodeでNode.js Debug Terminalから実行すればブレークポイントを貼って実行することも可能
 ```ps1
-npm run ts-node
+npm start
 ```
 
 

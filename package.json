@@ -4,7 +4,7 @@
   "description": "```ps1\r npm init -y\r ```\r ## typescriptのインストール",
   "main": "index.js",
   "scripts": {
-    "ts-node": "ts-node sample.ts"
+    "start": "ts-node sample.ts"
   },
   "keywords": [],
   "author": "",
